@@ -33,4 +33,16 @@
    Here r is for (read),w is for (write) and x is for (execution).
 12../<file name>
    we use this for make the file execute.
-13.Siddharth
+----------------------------------------------------------------------------------------------------------------
+                                       Git/Github
+13. git config --global user.name "<name of a user>"
+14. git config --global user.email <emial address of a user>
+15. git config --global init.defaultBranch main
+16. git init
+17. git status
+18. git add .
+19. git commit -m "message"
+20. git remote add origin https://github.com/username/repository.git
+21. git push -u origin main
+----------------------------------------------------------------------------------------------------------------
+
