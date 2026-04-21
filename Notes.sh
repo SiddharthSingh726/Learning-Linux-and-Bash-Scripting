@@ -12,7 +12,7 @@
    [1]+  Stopped   passwd. [ Job number = 1, Status = Stopped Command = paaswd].
   *For unpause in front we use ---> fg (foreground).
   *For unpause in background we use ---> bg (background).
-  *And to kill the the suspended work we use ---> kill %1.
+  *And to kill the the suspended work we use ---> kill %1(here 1 is Job number).
 6. exit
    We use this to close the current session of terminal.It also have shortcut (Ctrl + D).
 7. cat <file name>
@@ -23,7 +23,7 @@
    We use this to see the detail information, including file permissions, owner,size, and last modified data.
 10.The permission.
    There are 3 type of permissions. a -> owner(u), b -> group(g) and c -> other(o).
-11.chmod file permission <file name>
+11.chmod <file permission + execution type> <file name>
    It helps use to make changes in the permission of files.
    For example.So the file name Notes.sh have these permissions -> -rw-rw-r--
    Here the - means the ordinary file and if there is(d) instead of - than it means that is a directory means a folder.
@@ -33,3 +33,4 @@
    Here r is for (read),w is for (write) and x is for (execution).
 12../<file name>
    we use this for make the file execute.
+13. 
