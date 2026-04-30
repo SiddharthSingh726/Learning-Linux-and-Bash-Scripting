@@ -45,4 +45,7 @@
 20. git remote add origin https://github.com/username/repository.git
 21. git push -u origin main
 ----------------------------------------------------------------------------------------------------------------
-
+22.whoami
+   This is used to know where you are in a root mode or a normal mode in linux.
+23.poweroff , Ctrl + w
+   poweroff is use tou shutdown the kali linux and Ctrl + w for closing the open pdf and websites. 
