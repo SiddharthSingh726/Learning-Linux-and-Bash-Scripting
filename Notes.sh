@@ -15,7 +15,7 @@
   *And to kill the the suspended work we use ---> kill %1(here 1 is Job number).
 6. exit
    We use this to close the current session of terminal.It also have shortcut (Ctrl + D).
-7. cat <file name>
+7. cat <file name> / batcat <file name> --> upgraded version of cat.
    We use this to read the file.Display the contents of a file in the terminal.But it is not good for big file. 
 8. ls(list)
    We use this to see the list information about the files and directories even folders as well in a working directory.
@@ -49,3 +49,4 @@
    This is used to know where you are in a root mode or a normal mode in linux.
 23.poweroff , Ctrl + w
    poweroff is use tou shutdown the kali linux and Ctrl + w for closing the open pdf and websites. 
+
